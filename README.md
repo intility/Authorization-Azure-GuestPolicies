@@ -2,7 +2,7 @@
 Deny guests users in the authorization flow.
 
 [![Build_and_Test](https://github.com/Intility/Authorization-Azure-GuestPolicies/actions/workflows/build_and_test.yaml/badge.svg)](https://github.com/Intility/Authorization-Azure-GuestPolicies/actions/workflows/build_and_test.yaml)
-[![Publish](https://github.com/Intility/Authorization-Azure-GuestPolicies/actions/workflows/publish.yml/badge.svg)](https://github.com/Intility/Authorization-Azure-GuestPolicies/actions/workflows/publish.yaml)
+[![Publish](https://github.com/Intility/Authorization-Azure-GuestPolicies/actions/workflows/publish.yaml/badge.svg)](https://github.com/Intility/Authorization-Azure-GuestPolicies/actions/workflows/publish.yaml)
 
 ![Nuget](https://img.shields.io/nuget/v/Intility.Authorization.Azure.GuestPolicies?label=Intility.Authorization.Azure.GuestPolicies)
 ![Nuget](https://img.shields.io/nuget/dt/Intility.Authorization.Azure.GuestPolicies?logo=nuget&label=Downloads)
