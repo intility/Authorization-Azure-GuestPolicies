@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/intility/Authorization-Azure-GuestPolicies/compare/v2.1.1...v2.2.0) (2025-11-19)
+
+
+### Features
+
+* Add .NET 10 support ([378b287](https://github.com/intility/Authorization-Azure-GuestPolicies/commit/378b28798dc5265a6885cc1970e440e8fcf3fca0))
+
 ## [2.1.1](https://github.com/intility/Authorization-Azure-GuestPolicies/compare/v2.1.0...v2.1.1) (2025-07-01)
 
 
