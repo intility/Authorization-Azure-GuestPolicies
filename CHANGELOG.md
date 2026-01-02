@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.1](https://github.com/intility/Authorization-Azure-GuestPolicies/compare/v2.2.0...v2.2.1) (2026-01-02)
+
+
+### Bug Fixes
+
+* Bump the all group with 2 updates ([#27](https://github.com/intility/Authorization-Azure-GuestPolicies/issues/27)) ([fca088b](https://github.com/intility/Authorization-Azure-GuestPolicies/commit/fca088bbeff8345bef78805bd02f8c07bd09a2b4))
+
 ## [2.2.0](https://github.com/intility/Authorization-Azure-GuestPolicies/compare/v2.1.1...v2.2.0) (2025-11-19)
 
 
