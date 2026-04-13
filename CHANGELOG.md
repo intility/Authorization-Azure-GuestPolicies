@@ -1,5 +1,15 @@
 # Changelog
 
+## [2.2.3](https://github.com/intility/Authorization-Azure-GuestPolicies/compare/v2.2.2...v2.2.3) (2026-04-13)
+
+
+### Bug Fixes
+
+* Bump coverlet.collector from 6.0.4 to 8.0.1 ([#41](https://github.com/intility/Authorization-Azure-GuestPolicies/issues/41)) ([d93f51e](https://github.com/intility/Authorization-Azure-GuestPolicies/commit/d93f51e0e9e806269cf039e3956920ab52e49e2b))
+* Bump Microsoft.AspNetCore.Authorization from 9.0.13 to 10.0.5 ([#42](https://github.com/intility/Authorization-Azure-GuestPolicies/issues/42)) ([e86e136](https://github.com/intility/Authorization-Azure-GuestPolicies/commit/e86e1364a9ec115206755e6a183b0eb6d1225a3b))
+* bump minor-patch dependency updates ([#46](https://github.com/intility/Authorization-Azure-GuestPolicies/issues/46)) ([3260d7c](https://github.com/intility/Authorization-Azure-GuestPolicies/commit/3260d7c664bbc0c910f8623e118ac7e2226c6575))
+* restore TFM-appropriate package versions and block major dependabot bumps ([9c45fa7](https://github.com/intility/Authorization-Azure-GuestPolicies/commit/9c45fa7d14cffc90a59c01222fd39b9096b286e7))
+
 ## [2.2.2](https://github.com/intility/Authorization-Azure-GuestPolicies/compare/v2.2.1...v2.2.2) (2026-02-20)
 
 
