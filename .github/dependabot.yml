@@ -12,6 +12,13 @@ updates:
       - "nuget"
     commit-message:
       prefix: "fix:"
+    # Dependabot cannot distinguish between TFM-conditional PackageReferences,
+    # so it bumps all instances to the same version. Block major updates for
+    # packages that are pinned per-TFM to prevent cross-major version bumps.
+    ignore:
+      - dependency-name: "Microsoft.AspNetCore.Authorization"
+        update-types:
+          - "version-update:semver-major"
     groups:
       # Group all non-major updates together
       minor-patch-updates:
