@@ -5,7 +5,7 @@ updates:
     directory: "/"
     schedule:
       interval: 'cron'
-      cronjob: '0 8 * * MON#1'
+      cronjob: '0 8 * * MON#-1'
       timezone: 'Europe/Oslo'
     labels:
       - "dependencies"
@@ -33,7 +33,7 @@ updates:
     directory: "/"
     schedule:
       interval: 'cron'
-      cronjob: '0 8 * * MON#1'
+      cronjob: '0 8 * * MON#-1'
       timezone: 'Europe/Oslo'
     labels:
       - "dependencies"
