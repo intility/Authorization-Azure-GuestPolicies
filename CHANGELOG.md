@@ -1,5 +1,14 @@
 # Changelog
 
+## [2.2.5](https://github.com/intility/Authorization-Azure-GuestPolicies/compare/v2.2.4...v2.2.5) (2026-05-27)
+
+
+### Bug Fixes
+
+* Bump the minor-patch-updates group with 3 updates ([1af9389](https://github.com/intility/Authorization-Azure-GuestPolicies/commit/1af9389aba3e55c6fc9cfe2f28d3bdda7ec01aa6))
+* keep net8 authorization package on 8.x ([9b80962](https://github.com/intility/Authorization-Azure-GuestPolicies/commit/9b80962d42ee7fec5058677b43a6c6289bf77a3e))
+* set correct new versions ([4d964a0](https://github.com/intility/Authorization-Azure-GuestPolicies/commit/4d964a065b0ad8c4616a6ede7679ed710b8840f2))
+
 ## [2.2.4](https://github.com/intility/Authorization-Azure-GuestPolicies/compare/v2.2.3...v2.2.4) (2026-04-27)
 
 
